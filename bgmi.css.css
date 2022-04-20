@@ -1,0 +1,113 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* border:2px solid black;
+    border-radius: 5px;*/
+   background-repeat: no-repeat;
+    background-size:cover;
+    
+    background-image: url('bgmi11.jpg');
+
+    width: 100%;
+    padding: 5px 15px 5px 15px;
+    margin: 10px 10px 10px 10px;
+}
+
+.image1 {
+    float: right;
+    text-align: right;
+
+
+}
+
+.container {
+    width: 20%;
+    overflow: hidden;
+    background: rgba(238, 136, 2, 0.594);
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    float: right;
+}
+
+.disadvantages {
+    color: darkred;
+}
+
+.advantages {
+    color: darkgreen;
+}
+
+.h1 {
+    color: brown;
+    text-align: center;
+}
+
+.image2 {
+    float: right;
+    text-align: right;
+
+}
+
+input[type="submit"] {
+    border-radius: 5px;
+    cursor: pointer;
+    float: right
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(12, 120, 197);
+}
+
+.image3 {
+    float: right;
+    text-align: right;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: black;
+}
+
+.image4 {
+    float: right;
+    text-align: right;
+    
+    border:2px solid black;
+    border-radius: 30px;
+    
+    
+}
+
+.video1 {
+    float: right;
+    text-align: right;
+    margin: 0px 10px 0px 0px;
+}
+
+.video2 {
+    float: left;
+    text-align: left;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: black;
+    margin: 0px 10px 0px 0px;
+
+}
+
+.left {
+    text-align: center;
+}
+
+.introduction {
+    border: 3px solid rgb(3, 3, 193);
+    background-color: rgb(186, 146, 133);
+    border-radius: 6px;
+}
+.debute{
+    font-style: oblique;
+    color: rgb(249, 246, 246);
+    margin:0px 0px 60px 0px;
+}
+
+
